@@ -1,0 +1,33 @@
+/* Navbar animations */
+@keyframes slide-in {
+    100% {
+        transform: translateX(0)
+    }
+}
+
+@keyframes slide-out {
+    100% {
+        transform: translateX(200%);
+        display: none;
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: .5;
+    }
+}
+
+@keyframes fade-out {
+    0% {
+        opacity: .5;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
