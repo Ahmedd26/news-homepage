@@ -1,6 +1,6 @@
 # Frontend Mentor - News homepage
 
-##[Live Preview](https://news-homepage-ahmed26.netlify.app/)
+## [Live Preview](https://news-homepage-ahmed26.netlify.app/)
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
